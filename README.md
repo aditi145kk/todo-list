@@ -32,9 +32,39 @@ Upon logging out, they are shown a custom logout page.
 
 
 
+
+
+
 Task Management:
 After logging in, users can view, create, update, and delete their tasks.
 Tasks can be filtered by title using a search input.
 
 
+
+
+
+
+Version
+
+
+(Python 3.12.3)
+
+(Django 5.0.3)
+
+
+
+
+
+Resources Used -
+
+
+
+https://www.geeksforgeeks.org/how-to-create-an-app-in-django/?ref=lbp
+
+
+
+
+
+
+https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
 
