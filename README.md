@@ -44,6 +44,13 @@ Tasks can be filtered by title using a search input.
 
 
 
+
+
+
+Setup and Running the Project Locally
+
+Before running the project, ensure you have the following installed:
+
 Version
 
 
@@ -54,8 +61,64 @@ Version
 
 
 
+To Start the Django development server to run the project locally :
 
-Resources Used -
+
+
+
+
+
+
+1. Open this Repository on Code Editor (VS Code) -
+
+
+
+
+2. Open a terminal or command prompt.
+
+
+
+
+
+3. Clone the repository using Git: git clone https://github.com/aditi145kk/todo-list.git
+
+
+
+4. Navigate into the project directory
+
+
+
+
+5. On the command Prompt :- pip install python
+
+
+
+
+
+
+6. Again on the command Propmt :- pip install django
+
+
+  
+
+
+
+
+
+7. Go to Terminal and enter:-  python manage.py runserver
+
+
+
+
+
+
+
+
+
+
+
+
+Resources Used (For Reference)-
 
 
 
