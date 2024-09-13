@@ -59,8 +59,7 @@ Resources Used -
 
 
 
-https://www.geeksforgeeks.org/how-to-create-an-app-in-django/?ref=lbp
-
+https://www.geeksforgeeks.org/
 
 
 
