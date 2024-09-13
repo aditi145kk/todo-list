@@ -11,6 +11,9 @@ Project Overview
 Login: Redirects authenticated users to the task list page.
 Registration: Handles user registration, logs in the user upon successful registration, and redirects authenticated users to the task list page.
 Logout: Logs out the user and renders a custom logout message.
+*PLEASE NOTE - While registering the password needs to be 8 characters long and alpha-numeric*
+
+
 
 2. Task Management:
 Task List: Displays a list of tasks for the logged-in user, with options to filter tasks based on a search input. Shows the number of incomplete tasks.
